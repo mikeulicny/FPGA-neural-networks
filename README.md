@@ -1,6 +1,6 @@
 # FPGA-neural-networks
 This repository showcases the ability to create threashold gates in Verilog, simulating NAND, OR, and XOR gates. There are no
-logic gates used in the syntax itself, the gate outputs come from derived mathematical threshold functions.
+logic gates used in the syntax itself, the gate outputs come from derived mathematical activation functions.
 
 Files labelled gateName.v are the threashold gate modules themselves.
 Files labelled tb_gateName.v are test bench files for defining binary inputs and outputs (1's and 0's).

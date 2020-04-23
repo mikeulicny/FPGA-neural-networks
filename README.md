@@ -8,3 +8,5 @@ Files labelled tb_gateName.v are test bench files for defining binary inputs and
 This study proves that scaling up the threashold gates to accept entire vectors from neural networks would allow
 a chip to be built that contained an entire machine learning network, minus the backpropagation.
 The network would be trained elsewhere, then downloaded to the chip.
+
+All three threshold gates were downloaded to a Basys3 FPGA board and tested successfully.
